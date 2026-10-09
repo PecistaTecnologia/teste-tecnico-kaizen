@@ -28,7 +28,8 @@ operação.
 
 **O SIAC você não controla.** Ele roda numa EC2 e você apenas consome a API
 dele. Se um problema parecer estar no ERP, a correção tem que acontecer **deste
-lado** — é assim na vida real quando o sistema legado não é seu.
+lado** — é assim na vida real quando o sistema legado não é seu. O estoque é atualizado 
+de 30 em 30 minutos
 
 A documentação técnica (arquitetura, contrato da API, decisões, paleta) está em
 **[ARQUITETURA.md](ARQUITETURA.md)**. Vale ler antes de começar.
