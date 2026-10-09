@@ -225,5 +225,7 @@ Entregar menos sabendo explicar vale mais do que entregar tudo sem saber.
   Um commit por chamado resolvido é mais fácil de ler que um commit gigante.
 - Se travar por falta de informação, **assuma e escreva a suposição** — não
   fique parado esperando resposta.
+- Você deve clonar esse repositório em sua máquina, deletar a pasta .git e subir a solução no seu github.
+- A entrega da solução é o link do repositório, commits realizados após o prazo não serão considerados
 
 Boa sorte.
