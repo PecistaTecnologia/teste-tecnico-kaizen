@@ -42,6 +42,7 @@ montados em cima dela. Para conferir se você tem acesso, o ERP responde em
 > passo de propósito: queremos ver como você se vira com um projeto que não
 > conhece. O código, os arquivos de dependência e os exemplos de configuração
 > têm o que é preciso.
+> Versão do node: LTS
 
 ---
 
